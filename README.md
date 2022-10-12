@@ -1,3 +1,3 @@
 # ScalerCode
-This is the readme.md file
-Third EDIT
+This repository contains all the assignment and homework solutions solved during Scaler Academy course.
+
